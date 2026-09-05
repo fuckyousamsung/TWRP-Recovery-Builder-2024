@@ -14,6 +14,8 @@ on:
         - twrp-11
         - twrp-9.0
         - twrp-6.0
+        - twrp-5.1.1
+
       DEVICE_TREE:
         description: 'Custom Recovery Tree' 
         required: true
